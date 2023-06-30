@@ -28,9 +28,7 @@ I'm a Software Engineer from San José, Costa Rica.
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40" style="padding-right:10px;"/>
 </div>
 
----
-
-### Stats
+## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martinicr&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
