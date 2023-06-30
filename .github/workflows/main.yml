@@ -20,11 +20,11 @@ jobs:
           experimental_features: --optimize-svg
           use_prebuilt_image: yes
           config_padding: 0, 10 + 8%
-          user: IEvangelist
+          user: martinicr
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
-          config_timezone: America/Chicago
+          config_timezone: America/Costa_Rica
           config_order: base.header, base.activity+community, introduction, achievements, traffic, code, languages, lines
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -55,7 +55,7 @@ jobs:
           plugin_stackoverflow_limit: 2
           plugin_code: yes
           plugin_code_days: 30
-          plugin_code_languages: csharp, typescript, javascript, razor
+          plugin_code_languages: csharp, java, javascript
           plugin_topics: yes
           plugin_topics_mode: icons
           #plugin_licenses: yes
