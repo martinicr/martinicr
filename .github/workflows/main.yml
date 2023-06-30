@@ -49,10 +49,10 @@ jobs:
           #plugin_screenshot_url: https://davidpine.net
           #plugin_screenshot_mode: image
           #plugin_screenshot_viewport: '{ "width": "1280", "height": "2560" }'
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 2410379
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
+          #plugin_stackoverflow: yes
+          #plugin_stackoverflow_user: 2410379
+          #plugin_stackoverflow_sections: answers-top
+          #plugin_stackoverflow_limit: 2
           plugin_code: yes
           plugin_code_days: 30
           plugin_code_languages: csharp, java, javascript
@@ -67,6 +67,6 @@ jobs:
           plugin_gists: yes
           plugin_people: yes
           plugin_people_types: followers
-          plugin_rss: yes
-          plugin_rss_source: https://davidpine.net/index.xml
-          plugin_rss_limit: 4          
+          #plugin_rss: yes
+          #plugin_rss_source: https://davidpine.net/index.xml
+          #plugin_rss_limit: 4          
