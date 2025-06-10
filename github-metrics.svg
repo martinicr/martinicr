@@ -1710,9 +1710,9 @@
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2448,7 +2448,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 8 Jun 2025, 20:05:34 (timezone America/Costa_Rica) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 9 Jun 2025, 20:01:51 (timezone America/Costa_Rica) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
